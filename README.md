@@ -5498,7 +5498,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                         alt="Ram Belitkar" />
                     <br />
                     <sub>
-                        <b>Ram Belitkar</b>
+                        <b>Ram Belitkar </b>
                     </sub>
                 </a>
             </td>
